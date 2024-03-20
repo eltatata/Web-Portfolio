@@ -88,12 +88,12 @@ export default function Home() {
             ))}
           </div>
         </section>
-        <section>
+        <section className="w-full">
           <h2 className="text-2xl font-bold mb-3">Educación</h2>
           <div className="flex flex-col gap-6">
             {data.education.map((item, index) => (
               <div key={index} className="flex flex-col gap-2">
-                <div className="flex justify-between items-center gap-52">
+                <div className="flex justify-between items-center">
                   <h3 className="font-bold">{item.institution}</h3>
                   <p className="font-mono text-sm text-zinc-600 dark:text-zinc-400">{item.startDate} - {item.endDate}</p>
                 </div>
