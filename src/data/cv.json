@@ -1,0 +1,82 @@
+{
+    "basics": {
+        "name": "David Tabares Seguro",
+        "label": "DESARROLLADOR DE SOFTWARE",
+        "about": "Dearrollador Full Stack Enfocado en desarrollo web, APIs, UIs y soluciones con IA",
+        "email": "david.tabaress.seguro@gmail.com",
+        "phone": "+57 3054331366",
+        "summary": "Ingeniero de sistemas con más de 2 años de experiencia en desarrollo de software. Conocimiento avanzado en tecnologías como JavaScript, Node.js, React y Python, así como experiencia en bases de datos SQL y NoSQL. Habilidades en desarrollo full stack, creación de APIs, interfaces de usuario y familiaridad con herramientas actuales, incluyendo la integración de tecnologías avanzadas.",
+        "location": "Medellin, Colombia, CO",
+        "locationLink": "https://www.google.com/maps/place/Medellin",
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "eltatata",
+                "url": "https://github.com/eltatata"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "david-tabares-b1780a232",
+                "url": "https://www.linkedin.com/in/david-tabares-b1780a232"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Ingeniería Contable A²G",
+            "position": "Desarrollador Full Stack - Freelance",
+            "startDate": "2024-03-1",
+            "endDate": "",
+            "summary": "Como desarrollador full stack, he implementado tecnologías innovadoras en el frontend, como Next.js y Tailwind CSS, para crear una plataforma de gestión de rentas desde cero. Durante este proceso, he seguido buenas prácticas como clean code, clean architecture y DDD (Domain-Driven Design). Esta implementación se ha realizado con la vista puesta en una integración eficiente con el backend, el cual está siendo desarrollado con Node.js y TypeScript.",
+            "highlights": [
+                "Creacion de una plataforma desde cero",
+                "Impletacion de DDD y Clean Architecture"
+            ]
+        },
+        {
+            "name": "RAEBOT",
+            "position": "Análisis y desarrollo completo de un aplicativo web",
+            "startDate": "2023",
+            "endDate": "2024",
+            "summary": "Proyecto institucional que tenía como objetivo abordar un problema de comunicación interna en la institución. Para lograrlo, creé un software web completo que incluye un modelo entrenado con información institucional. Este modelo se utiliza para desarrollar un chatbot que facilita la interacción y la comunicación dentro de la institución.",
+            "highlights": [
+                "Traducción de requisitos",
+                "Implementación de modelos de inteligencia artificial"
+            ]
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Git",
+        "Python",
+        "Django",
+        "FastAPI",
+        "Nodejs",
+        "Express js",
+        "React js",
+        "Next js",
+        "SQL",
+        "MongoDB",
+        "MySQL"
+    ],
+    "education": [
+        {
+            "institution": "INSTITUCIÓN UNIVERSITARIA SALAZAR Y HERRERA - IUSH",
+            "area": "Ingeniería de sistemas",
+            "studyType": "Grado",
+            "startDate": "2022",
+            "endDate": "ahora"
+        },
+        {
+            "institution": "LICEO SALAZAR Y HERRERA",
+            "area": "Educación básica",
+            "studyType": "Secundaria",
+            "startDate": "2011",
+            "endDate": "2021"
+        }
+    ]
+}
